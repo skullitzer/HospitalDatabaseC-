@@ -1,0 +1,12 @@
+C:\Users\VARAD\source\repos\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\VARAD\source\repos\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\VARAD\source\repos\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.csproj.AssemblyReference.cache
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.Form1withoutsql.resources
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.Form1withsql.resources
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.Properties.Resources.resources
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.csproj.GenerateResource.cache
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\VARAD\source\repos\FinalExam\obj\Debug\FinalExam.pdb
